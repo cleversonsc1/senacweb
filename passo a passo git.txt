@@ -1,0 +1,5 @@
+passo a passo do git:
+
+passo 1:iniciar o git, criand um repositório
+passo 2:adiciona os arqivos no index
+passo 3:cria a primeia veão/commit
